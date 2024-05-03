@@ -5,6 +5,7 @@
 :mortar_board: Закончила Политехнический универсетите в Санкт-Петербург </br>
 :microscope: В настоящий момент изучаю JS, React, CSS </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EkaterinaToporkova&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **EkaterinaToporkova/EkaterinaToporkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
