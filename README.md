@@ -1,4 +1,9 @@
-### Hi there 👋
+### Привет, меня зовут Катя Топоркова 👋
+
+
+:computer: Работаю бизнес-аналитиком </br>
+:mortar_board: Закончила Политехнический универсетите в Санкт-Петербург </br>
+:microscope: В настоящий момент изучаю JS, React, CSS </br>
 
 <!--
 **EkaterinaToporkova/EkaterinaToporkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
